@@ -20,51 +20,51 @@ const moocscards = [
     moocLink: "https://www.coursera.org/learn/machine-learning",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-  },
-  {
-    title: "Bootstrap 4",
+    title: "Linux and AI for Ethical Hackers",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink: "https://www.udemy.com/course/linux-and-ai-for-ethical-hackers",
   },
   {
-    title: "Intro to React",
+    title: "ITIL 4 Foundation Preparation Course 1",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://www.udemy.com/course/itil-4-foundation-preparation-course-part-1",
+  },
+  {
+    title: "Data Science: Python for Data Analysis Full Bootcamp",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/",
+  },
+  {
+    title: "Pentesting with Daniel Slater (Ethical Hacking/Web Security)",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://www.udemy.com/course/web-security-fundamentals-how-to-hack-and-secure-web-apps",
+  },
+  {
+    title: "IBM: AI for Everyone: Master the Basics",
     cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
+    moocLink: "https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics",
   },
   {
-    title: "Intro to React Native",
+    title: "Google Project Management Professional Certificate",
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+      "https://www.coursera.org/professional-certificates/google-project-management",
   },
   {
-    title: "NodeJS, Express and MongoDB",
+    title: "Google Cybersecurity Professional Certificate",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    moocLink: "https://www.coursera.org/professional-certificates/google-cybersecurity",
   },
   {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    title: "Introduction to Systems Engineering",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/learn/systems-engineering/",
   },
   {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
+    title: "Production Machine Learning Systems (Google Cloud)",
+    cardImage: "assets/images/education-page/coursera2.svg",
     moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+      "https://www.coursera.org/learn/gcp-production-ml-systems/home/module/2",
   },
 ];
 
