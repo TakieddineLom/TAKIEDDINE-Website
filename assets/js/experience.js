@@ -9,14 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Ministry of Interior",
     time: "(Apr, 2024 - present)",
-    desp: "<li>Design & installation of new network (Fortinet) in Gauverment Palace .</li> <li>Migrate all the physical servers into virtualized machines (ESXI 8.3).</li> <li>Create DNS, publish and secure all the App's (FortiWeb).</li> <li>Create a private cloud using OpenStack.</li> <li>Installation and suppervision of Kaspersky Security Center (EDR-Optimum) for the HUB and 58 state  cites</li>",
+    desp: "<li>Design & installation of new network (Fortinet) in Gauverment Palace .</li> <li>Migrate all the physical servers into virtualized machines (ESXI 8.3).</li> <li>Create DNS, publish and secure all the App's (FortiWeb).</li> <li>Create a private cloud using OpenStack.</li> <li>Installation and suppervision of Kaspersky Security Center (EDR-Optimum) for the HUB and 58 state cites</li>",
   },
   {
     title: "IT Technician",
     cardImage: "assets/images/experience-page/gsoc.jpg",
     place: "Gcc Services",
     time: "(Mar, 2022 - Jan, 2023)",
-    desp: "<li>Installing, configuring, and maintaining software and hardware components of computer and network systems.</li><li>Develop and maintain local networks (LAN, WLAN).</li> <li>CCTV Design, installation and configuration (Hikvision).</li> <li>Cloud Computing AWS: S3, Workspaces, Virtual Machines.</li>",
+    desp: "<li>Installing, configuring, and maintaining software and hardware components of computer and network systems.</li> <li>Develop and maintain local networks (LAN, WLAN).</li> <li>CCTV Design, installation and configuration (Hikvision).</li> <li>Cloud Computing AWS: S3, Workspaces, Virtual Machines.</li>",
   },
   {
     title: "Internship",
